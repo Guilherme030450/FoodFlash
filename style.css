@@ -1,0 +1,29 @@
+*{
+    background-color:#252422;
+    color: white;
+}
+
+ul{
+    width:100%;
+    height:68px;
+    background-color:#884125;
+    display: flex;
+}
+
+a{
+justify-content:space-around;
+}
+
+.cardis{
+    margin-top:20px;
+    display:flex !important;
+    justify-content:space-around;
+}
+
+body{
+    background-color:#252422;
+}
+
+#cor{
+    color: white;
+}
